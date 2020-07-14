@@ -2,15 +2,11 @@
 
 ## Script will cover patient information on echo clips located on the header and footer
 
----
-
 ## Requirements:
 
 - python 3.x.x
 - numpy
 - opencv2
-
----
 
 ### Use:
 
