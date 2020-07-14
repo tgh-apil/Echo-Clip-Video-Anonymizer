@@ -1,6 +1,6 @@
 # Echo Clip Video Anonymizer
 
-## Script will cover patient information on echo clips located on the header and footer
+### Script will cover patient information on echo clips located on the header and footer
 
 ## Requirements:
 
