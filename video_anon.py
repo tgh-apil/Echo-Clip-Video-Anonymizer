@@ -1,6 +1,4 @@
-import numpy as np
 import cv2
-import os
 from pathlib import Path
 
 Path('Data').mkdir(parents=True, exist_ok=True)
